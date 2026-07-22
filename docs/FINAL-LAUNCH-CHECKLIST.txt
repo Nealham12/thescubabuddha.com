@@ -1,0 +1,17 @@
+THE SCUBA BUDDHA — FINAL LAUNCH CHECKLIST
+
+[ ] Add final hero photo
+[ ] Add Neal Hamilton portrait
+[ ] Confirm final business email address
+[ ] Activate contact form
+[ ] Add service prices and turnaround times
+[ ] Verify course and specialty availability
+[ ] Verify Facebook URL
+[ ] Test every navigation link
+[ ] Test on phone and desktop
+[ ] Upload to GitHub
+[ ] Enable GitHub Pages
+[ ] Configure custom domain
+[ ] Preserve Google Workspace DNS records
+[ ] Enable HTTPS
+[ ] Submit sitemap to Google Search Console

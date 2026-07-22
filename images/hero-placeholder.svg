@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#073b50"/><stop offset="1" stop-color="#0b86a8"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<circle cx="1250" cy="230" r="180" fill="#73d5d7" opacity=".18"/>
+<path d="M0 620 Q320 520 640 650 T1280 630 T1600 660 V900 H0Z" fill="#042c40" opacity=".45"/>
+<text x="800" y="420" font-family="Arial" font-size="72" text-anchor="middle" fill="white" opacity=".7">Add Underwater Hero Photo</text>
+</svg>
